@@ -1,0 +1,14 @@
+D:\Projects\c#\Armoring\Armoring\bin\Debug\Armoring.exe.config
+D:\Projects\c#\Armoring\Armoring\bin\Debug\Armoring.exe
+D:\Projects\c#\Armoring\Armoring\bin\Debug\Armoring.pdb
+D:\Projects\c#\Armoring\Armoring\obj\Debug\Armoring.csproj.AssemblyReference.cache
+D:\Projects\c#\Armoring\Armoring\obj\Debug\Armoring.csproj.SuggestedBindingRedirects.cache
+D:\Projects\c#\Armoring\Armoring\obj\Debug\Armoring.Properties.Resources.resources
+D:\Projects\c#\Armoring\Armoring\obj\Debug\Armoring.csproj.GenerateResource.cache
+D:\Projects\c#\Armoring\Armoring\obj\Debug\Armoring.csproj.CoreCompileInputs.cache
+D:\Projects\c#\Armoring\Armoring\obj\Debug\Armoring.exe
+D:\Projects\c#\Armoring\Armoring\obj\Debug\Armoring.pdb
+D:\Projects\c#\Armoring\Armoring\obj\Debug\Armoring.Steps.resources
+D:\Projects\c#\Armoring\Armoring\bin\Debug\Control.Draggable.dll
+D:\Projects\c#\Armoring\Armoring\obj\Debug\Armoring.csproj.CopyComplete
+D:\Projects\c#\Armoring\Armoring\obj\Debug\Armoring.Armoring.resources
